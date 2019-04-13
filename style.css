@@ -2,12 +2,16 @@
 <html>
 <head>
 <style>
-h1 {
+html {
+ background-color: #0c0954;
+}
+title {
   font-family: impact;
   color: orange;
 }
-html {
- background-color: #0c0954;
+h1 {
+  font-family: impact;
+  color: orange;
 }
 h2 {
   font-family: times;
