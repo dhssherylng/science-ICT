@@ -2,14 +2,13 @@
 <html>
 <style>
 h1 {
-  font-family: Impact;
   color: black;
 }
-html {
- background-color: #83b5f5;
+ body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
 }
 h2 {
-  font-family: impact;
   color: black;
 }
 p {
