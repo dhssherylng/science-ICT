@@ -4,9 +4,8 @@
 h1 {
   color: black;
 }
- body {
- background-image: url("paper.gif");
- background-color: #cccccc;
+html {
+ background-color: #83b5f5;
 }
 h2 {
   color: black;
