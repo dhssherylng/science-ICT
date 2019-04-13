@@ -3,10 +3,12 @@
 <head>
 <style>
 
-html {
+head {
+  backgroung-color: #0c0954;
+}
+body {
   background-color: #0c0954;
 }
-
 head {
   font-family: impact;
   color: orange;
