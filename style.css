@@ -5,9 +5,13 @@
 html {
  background-color: #0c0954;
 }
-title {
+head {
   font-family: impact;
   color: orange;
+}
+body {
+  font-family: helvetica;
+  color: violet;
 }
 h1 {
   font-family: impact;
