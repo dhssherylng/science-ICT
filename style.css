@@ -21,6 +21,10 @@ h2 {
   font-family: times;
   color: yellow;
 }
+li {
+  font-family: helvetica;
+  color: white;
+}
 p {
   font-family: helvetica;
   color: white;
