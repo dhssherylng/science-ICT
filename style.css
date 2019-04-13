@@ -7,6 +7,8 @@ head {
 }
 body {
   background-color: navy;
+  font-family: helvetica;
+  color: white;
 }
 head {
   font-family: impact;
@@ -19,10 +21,6 @@ h1 {
 h2 {
   font-family: times;
   color: yellow;
-}
-li {
-  font-family: helvetica;
-  color: white;
 }
 p {
   font-family: helvetica;
